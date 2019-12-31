@@ -20,7 +20,9 @@
 * `Pandas`
 * `Numpy`
 * `matplotlib`
-* `
+* `tensorflow`
+* `keras`
 
 ## Change Log
 * 12-30-2019 4:55pm - Initial commit, `food_reviews.csv`, `food_training.ipynb` added with sentiments and samples
+* 12-30-2019 5:28pm - Utilized Keras and Tensorflow.
