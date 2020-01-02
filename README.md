@@ -1,7 +1,7 @@
 # Sentiment Classifier
 
 **Author**: Joseph Hangarter
-**Version**: 1.0.3
+**Version**: 1.0.4
 
 ## Overview
 ## 12-30-2019
@@ -38,3 +38,4 @@
 * 12-30-2019 4:55pm - Initial commit, `food_reviews.csv`, `food_training.ipynb` added with sentiments and samples
 * 12-30-2019 5:28pm - Utilized Keras and Tensorflow.
 * 01-01-2020 11:38pm - Worked on model; still needs some work
+* 01-01-2020 11:49pm - Model saved to json file
